@@ -1,0 +1,46 @@
+PODS:
+  - Bond (6.8.0):
+    - Differ (~> 1.0)
+    - ReactiveKit (~> 3.9)
+  - Differ (1.2.2)
+  - ReactiveKit (3.9.4)
+  - Realm (3.7.6):
+    - Realm/Headers (= 3.7.6)
+  - Realm/Headers (3.7.6)
+  - RealmSwift (3.7.6):
+    - Realm (= 3.7.6)
+  - Reveal-SDK (13)
+  - SnapKit (4.0.1)
+  - Swinject (2.4.0)
+
+DEPENDENCIES:
+  - Bond
+  - RealmSwift (~> 3.7.1)
+  - Reveal-SDK (~> 13.0.0)
+  - SnapKit (~> 4.0.0)
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bond
+    - Differ
+    - ReactiveKit
+    - Realm
+    - RealmSwift
+    - Reveal-SDK
+    - SnapKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  Bond: f07e371c05e07c46589c4a518515ea39c6263055
+  Differ: 5ac7b6d0d3a60274b52a0ef087ec0e411b57db2c
+  ReactiveKit: cafbc91f72751d09baa9a3c3cf6d82b646328a6c
+  Realm: 9eaecad54712d6246d08ba34c10f354e4715d7d3
+  RealmSwift: 1fe08b4ebaeeaacf17f9ba0343f7b25c9fc31fa6
+  Reveal-SDK: ccc2b0f8014965ea448b7534a7c2c8da232b75e8
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Swinject: a1364b0f66c2736bb03c1c7cab54809e16df25da
+
+PODFILE CHECKSUM: 0a0b805abd6e7951f7a76b5f60d395f6e6922545
+
+COCOAPODS: 1.6.0.beta.1

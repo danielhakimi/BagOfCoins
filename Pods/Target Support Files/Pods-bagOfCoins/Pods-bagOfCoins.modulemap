@@ -1,0 +1,6 @@
+framework module Pods_bagOfCoins {
+  umbrella header "Pods-bagOfCoins-umbrella.h"
+
+  export *
+  module * { export * }
+}
